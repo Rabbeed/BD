@@ -1,0 +1,13 @@
+C:\Users\feder\source\repos\BD\BD\bin\Debug\inventario.mdf
+C:\Users\feder\source\repos\BD\BD\bin\Debug\inventario_log.ldf
+C:\Users\feder\source\repos\BD\BD\bin\Debug\BD.exe.config
+C:\Users\feder\source\repos\BD\BD\bin\Debug\BD.exe
+C:\Users\feder\source\repos\BD\BD\bin\Debug\BD.pdb
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.FrmArticulos.resources
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.exe
+C:\Users\feder\source\repos\BD\BD\obj\Debug\BD.pdb
